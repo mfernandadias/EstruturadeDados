@@ -1,5 +1,5 @@
 package grafos;
-import java.util.;
+/*
 
 public class Grafo<TIPO> {
     //grafo é composto de vertices e arestas
@@ -29,4 +29,4 @@ public class Grafo<TIPO> {
         }
         return vertices;
     }
-}
+} */

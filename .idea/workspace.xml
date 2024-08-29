@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fae995c3-cab5-40a0-a438-63c8275dfc1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/grafos/Aresta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estruturaDeDadosLivro/pesquisaTabelaLinear/TestOneArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaEstruturaDeDados/vetor/Vetor02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaEstruturaDeDados/vetor/vetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estruturaDeDados/TestBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estruturaDeDados/livroJava" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estruturaDeDadosLivro/livroJava" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/grafos/Grafo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grafos/Grafo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/grafos/Vertice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grafos/Vertice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
