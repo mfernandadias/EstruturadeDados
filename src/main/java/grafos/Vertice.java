@@ -13,6 +13,22 @@ public class Vertice<TIPO> {
         this.arestasSaida = new ArrayList<Aresta<TIPO>> ();
     }
 
+    public ArrayList<Aresta<TIPO>> getArestasEntrada() {
+        return arestasEntrada;
+    }
+
+    public void setArestasEntrada(ArrayList<Aresta<TIPO>> arestasEntrada) {
+        this.arestasEntrada = arestasEntrada;
+    }
+
+    public ArrayList<Aresta<TIPO>> arestasSaida() {
+        return arestasSaida;
+    }
+
+    public void setArestasSaida(ArrayList<Aresta<TIPO>> arestasSaida) {
+        this.arestasSaida = arestasSaida;
+    }
+
     public TIPO dado() {
         return dado;
     }
