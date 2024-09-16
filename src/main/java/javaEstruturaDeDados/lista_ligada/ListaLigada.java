@@ -1,7 +1,7 @@
 package javaEstruturaDeDados.lista_ligada;
 
 public class ListaLigada {
-    private Elemento primeiro;
+    /*private Elemento primeiro;
     private Elemento ultimo;
     private int Tamanho;
 
@@ -60,7 +60,7 @@ public class ListaLigada {
                 atual = atual.getproximo();
             }
         }
-        return atua;
-    }
+        return;
+    } */
 
 }

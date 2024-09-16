@@ -1,4 +1,4 @@
-package recursivaFuncaoExercicios.fila;
+package estruturaDeDadosExercicios.fila;
 
 public class Fila {
     /*

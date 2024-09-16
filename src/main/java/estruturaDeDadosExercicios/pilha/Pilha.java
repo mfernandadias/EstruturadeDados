@@ -1,4 +1,4 @@
-package recursivaFuncaoExercicios.pilha;
+package estruturaDeDadosExercicios.pilha;
 
 public class Pilha{
     private int[] stack;

@@ -1,7 +1,7 @@
 package javaEstruturaDeDados.lista_ligada;
 
 public class ProgramaTest {
-    public static void main(String[] args){
+    /*public static void main(String[] args){
 
         ListaLigada lista = new ListaLigada();
         lista.adiciona("AC");
@@ -12,5 +12,5 @@ public class ProgramaTest {
         System.out.println("Ultimo: " + lista.getUltimo().getValor());
 
         System.out.println();
-    }
+    } */
 }

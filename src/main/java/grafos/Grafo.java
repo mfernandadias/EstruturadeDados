@@ -4,7 +4,7 @@ package grafos;
 import java.util.ArrayList;
 
 public class Grafo<TIPO> {
-    private ArrayList<Vertice<TIPO>> vertices;
+    /*private ArrayList<Vertice<TIPO>> vertices;
     private ArrayList<Aresta<TIPO>> arestas;
 
     public Grafo(){
@@ -56,5 +56,5 @@ public class Grafo<TIPO> {
             }
             fila.remove(0);
         }
-    }
+    } */
 }
